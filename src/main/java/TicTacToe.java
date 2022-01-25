@@ -40,11 +40,6 @@ public class TicTacToe {
             }
         }
         System.out.println("Игра закончена");
-        /*humanTurn();
-        printMap();
-        aiTurn();
-        printMap();
-        */
     }
 
     private static void aiTurn() {
